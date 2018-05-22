@@ -14,7 +14,7 @@ end
 
 
 def take_a_number(katz_deli, name)
-
+  message = "Welcome, #{name}. You are number #{index} in line."
 
 #  if katz_deli.length == 0
 #    katz_deli << name
