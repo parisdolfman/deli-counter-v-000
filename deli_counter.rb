@@ -12,8 +12,12 @@ def line(katz_deli)
   end
 end
 
-def take_a_number(katz_deli, name)
 
+def take_a_number(katz_deli, name)
+  if katz_deli.length == 0
+    # add a person to the line
+  else katz_deli.length == > 1
+    # shovel a person to end of line
 end
 
 def now_serving
