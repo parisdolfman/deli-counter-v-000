@@ -15,7 +15,7 @@ end
 
 def take_a_number(katz_deli, name)
   if katz_deli.length == 0
-    # add a person to the line
+    katz_deli << 
   else katz_deli.length == > 1
     # shovel a person to end of line
 end
