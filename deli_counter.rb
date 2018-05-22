@@ -24,8 +24,7 @@ end
 #    katz_deli << name
 #  else katz_deli.length == 1
     # shovel a person to end of line
-  end
-end
+
 
 def now_serving
 
